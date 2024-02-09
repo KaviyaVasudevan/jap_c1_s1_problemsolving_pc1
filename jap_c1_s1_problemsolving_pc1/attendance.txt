@@ -1,0 +1,9 @@
+1.start
+2.create varibales noOfClasses,stud_attend,percentage
+3.accept values and store them 
+4.if percentage > 75 
+	display "eligible"
+ else if condition== yes
+	display "eligible"
+ else 
+	display "not eligible"
